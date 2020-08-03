@@ -33,19 +33,23 @@ color: #fff;
 font-weight:600;
 }
 </style>
-One of the best ways to train with bodyweight is to utilize the technique dropset, which has you applying a technique to your early reps on a classic bodyweight movement, then tweaking that technique later to allow for more reps. It's a solid way to create overload without any external resistance, and it's often more challenging than you think.
+Getting visible six-pack abs boils down to two things: what you're eating and how you're training. But as Athlean-X's Jeff Cavaliere C.S.C.S. points out, things can get a little bit trickier when it comes to working your lower abs.
 
-It's also a great way to level up your pushup, pushing your chest to greater gains without the use of a bench press. And that's what you do in the Half-Full Post Pushup Dropset from Men's Health fitness director Ebenezer Samuel, C.S.C.S. The pushup series, which requires nothing more than your bodyweight and a pole or post that you can grab with one hand, pushes your chest to the limit, and, says Samuel, it forces you to own the entire pushup range of motion.
+"As always, nutrition is a high priority when it comes to your abs," he says, pointing out that many men can tend to store fat in the lower ab area for longer, so dedication to good nutrition is a must.
 
-"It's common when doing pushups to avoid certain sticking points, or pieces of the range of motion that we can't usually handle, by exploding up through them," says Samuel. "During this dropset, you'll spend extra time at several tricky points, building time-under-tension and challenging your core to remain stable during those moments.
+On the training side, however, there's another common difficulty. "Lower ab movements are driven from moving the pelvis towards your shoulders. Attached to that pelvis is a pair of legs, that happen to usually weigh a lot," says Cavaliere. "So these become weighted ab movements that become very challenging, and oftentimes it's the hip flexors that get really fatigued first, limiting what you can actually do for your lower abs."
 
-"That's one of the strengths of the post pushup as well," he adds. "Your core can't take a break during the post pushup, especially when we add the half-full motion in."
+Cavaliere breaks down a lower-ab workout that can be performed at any level, consisting of six moves, all of which start from a laying down, face-up position and involve lifting the legs. You'll perform one move that lifts the legs, then follow with one that provides your hip flexors some relief.
 
-Because you're not exploding back to the top on every rep, you have to be in complete control of the pushup motion, challenging chest and triceps to the max. You also pile up extra time in the most challenging moment of the pushup: At the bottom, with your chest an inch from the ground. "For every half-full rep," says Samuel, "you power out of the bottom of a pushup twice. That's not easy."
+The first exercise is a figure 8. When performing this move, it's not just about lifting the pelvis off the ground, but also engaging the obliques as well as the lower abs to drive that bottom-up rotation. This is followed by a hip flexor relief exercise, the lower ab swipe, which requires you to lift your pelvis and tailbone high enough off the ground to be able to touch the floor underneath without making contact.
 
-It's that much harder because of what comes next: After blasting through half-full reps, you transition to standard post pushups, which are challenging in their own right. "It leaves your chest on fire," says Samuel.
+The third exercise is the bicycle V-up. "We're simply bicycling our legs and sitting up into that V position," says Cavaliere. "Again, the weight of the legs is going to make this more demanding and more likely to fatigue out your hip flexors." As such, the fourth exercise is another hip flexor relief move, the heaven press. "Here all you're trying to do is simply press your heels into the ceiling," he says, "lifting and driving by trying to get your tailbone and pelvis off the ground, not worrying about anything else."
 
-But it is worth it, and it's that much better since you can do it anywhere, from outside to your hotel room to in the weight room. Bodyweight dropsets don't get any better than that.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j22ncHwoRkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The fifth move is a 3-way seated ab tuck; this one allows you to have a little additional support by placing your hands on the floor to support yourself and combat the fatigue at this point in the workout. The sixth and final move is a knees-to-elbow crunch. "Here you set up in a 90-degree position, and you do not move your elbows at all," says Cavaliere. "Your upper body stays locked in place, all you're doing is initiating that pelvic lift with the activation of that bottom-up ab movement to drive your knees into your elbows."
+
+For beginners, Cavaliere recommends doing 15 seconds on and 15 seconds off each exercise. Intermediate exercisers try 20 seconds on and 10 seconds off. If you're at a more advanced level, he suggests working for 25 seconds with just a 5 second rest. You should be able to complete the circuit in around 3 minutes. After a 1-minute rest, do all six moves again.
 <section class="newsletter">
 <div class="container">
 <div class="row">
