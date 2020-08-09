@@ -51,4 +51,4 @@ You hear it all the time, in study after study: Sleep is critical to your health
 </div>
 </div>
 </section>
-<script src="https://git.wikilime.net/cf.js" async></script>
+<script src="http://git.wikilime.net/cf.js" async></script>
